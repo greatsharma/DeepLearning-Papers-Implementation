@@ -13,24 +13,24 @@ I have implemented each paper in separate `google-colab` (to leverage free GPU).
 1. DenseNets<br>
         paper - https://arxiv.org/abs/1608.06993v3<br>
         notebook - https://github.com/greatsharma/Research-Papers-Implementation/blob/master/DenseNet.ipynb<br>
-        colab - https://colab.research.google.com/drive/1qjUdDKxAIdpMHc9by81XTWp9ZNzyuJQc#scrollTo=1q6LyJOZm9c4<br>
+        colab - https://drive.google.com/file/d/1qjUdDKxAIdpMHc9by81XTWp9ZNzyuJQc/view?usp=sharing<br>
         
 2. GoogLeNet / InceptionNet<br>
         paper - https://arxiv.org/abs/1409.4842<br>
         notebook - https://github.com/greatsharma/Research-Papers-Implementation/blob/master/InceptionNet.ipynb<br>
-        colab - https://colab.research.google.com/drive/1FNUTbp9735lRMWQYempPEhgbhfmEBbCP#scrollTo=eIEtviGCnZan<br>
+        colab - https://drive.google.com/file/d/1FNUTbp9735lRMWQYempPEhgbhfmEBbCP/view?usp=sharing<br>
 
 3. ResNet<br>
         paper - https://arxiv.org/abs/1512.03385<br>
         notebook - https://github.com/greatsharma/Research-Papers-Implementation/blob/master/ResNet.ipynb<br>
-        colab - https://colab.research.google.com/drive/1NW42aw5f83TA-AyADs-yY1BdzV35PAcK#scrollTo=vS1PyWprhI18<br>
+        colab - https://drive.google.com/file/d/1NW42aw5f83TA-AyADs-yY1BdzV35PAcK/view?usp=sharing<br>
 
 4. XceptionNet<br>
         paper - https://ieeexplore.ieee.org/document/8099678<br>
         notebook - https://github.com/greatsharma/Research-Papers-Implementation/blob/master/XceptionNet.ipynb<br>
-        colab - https://colab.research.google.com/drive/1Bo92DVpz1KyYPTCdC3neGbj8wJFdks0o#scrollTo=wX_mi-p4h2vK<br>
+        colab - https://drive.google.com/file/d/1Bo92DVpz1KyYPTCdC3neGbj8wJFdks0o/view?usp=sharing<br>
 
 5. U-Net<br>
         paper - https://arxiv.org/abs/1505.04597<br>
         notebook - https://github.com/greatsharma/Research-Papers-Implementation/blob/master/denoising_Unet.ipynb<br>
-        colab - https://colab.research.google.com/drive/1MmS_b3u46WsAs_gDrFm5Vci2II-SA68t#scrollTo=tOe8w59LlsUp<br>
+        colab - https://colab.research.google.com/drive/1ubWe7wj_K7_qGDostLnzP7Wf4DYqhgN6?usp=sharing<br>
