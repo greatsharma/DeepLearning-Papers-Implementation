@@ -34,3 +34,6 @@ I have implemented each paper in separate `google-colab` (to leverage free GPU).
         paper - https://arxiv.org/abs/1505.04597<br>
         notebook - https://github.com/greatsharma/Research-Papers-Implementation/blob/master/denoising_Unet.ipynb<br>
         colab - https://colab.research.google.com/drive/1ubWe7wj_K7_qGDostLnzP7Wf4DYqhgN6?usp=sharing<br>
+
+
+If you face any problem while rendering notebook in github or opening in colab then please try it 3-4 times and if the situation remains the same then simply open an issue, I will fix that.
